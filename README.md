@@ -8,8 +8,8 @@
 
 <br>
 
-<div>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nicolassm145&show_icons=true&locale=en&theme=midnight-purple&count_private=true" alt="nicolassm145" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolassm145&show_icons=true&locale=en&theme=midnight-purple" alt="nicolassm145" />
-</div>
+</p>
 
