@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Nícolas 👋</h1>
 <br>
 
-<h2 align="center">GitHub Stats:</h2>
+<h3 align="center">GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nicolassm145&show_icons=true&locale=en&theme=midnight-purple&count_private=true&hide_border=true&card_width=500" alt="nicolassm145" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolassm145&theme=midnight-purple&layout=compact&card_width=500&langs_count=8&hide_border=true" alt="Top Langs"/>
 </p>
 
-<h2 align="center">Languages:</h2>
+<h3 align="center">Languages:</h3>
 <p align="center">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,cs,js,html,css&theme=dark&perline=3" alt="My Skills"/></a>
 </p>
