@@ -3,8 +3,8 @@
 
 <h2 align="center">GitHub Stats:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicolassm145&show_icons=true&locale=en&theme=midnight-purple&count_private=true&hide_border=true" alt="nicolassm145" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrorochalg&theme=midnight-purple&layout=compact&card_width=500&langs_count=8&hide_border=true" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nicolassm145&show_icons=true&locale=en&theme=midnight-purple&count_private=true&hide_border=true&card_width=500" alt="nicolassm145" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolassm145&theme=midnight-purple&layout=compact&card_width=500&langs_count=8&hide_border=true" alt="Top Langs"/>
 </p>
 
 <h2 align="center">Languages:</h2>
