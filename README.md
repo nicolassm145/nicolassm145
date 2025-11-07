@@ -19,7 +19,7 @@
 
 <h3 align="center">Tools:</h3>
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,figma,unity,arduino&theme=dark&perline=4" alt="Tools"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,figma,unity,arduino,clion&theme=dark&perline=5" alt="Tools"/></a>
 </p>
 
 <br>
