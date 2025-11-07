@@ -9,12 +9,22 @@
 
 <h3 align="center">Languages:</h3>
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,cs,js,html,css&theme=dark&perline=3" alt="My Skills"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,cs,js,ts,py,html,css&theme=dark&perline=4" alt="My Skills"/></a>
+</p>
+
+<h3 align="center">Frameworks:</h3>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,vue,express,nodejs,fastapi&theme=dark&perline=5" alt="Frameworks"/></a>
+</p>
+
+<h3 align="center">Tools:</h3>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,figma,unity,arduino&theme=dark&perline=4" alt="Tools"/></a>
 </p>
 
 <br>
 <p align="center">
-  <a href="mailto://nicolassm145@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/nicolassm145/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/nicolassm__/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+  <a href="mailto://nicolassm145@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/nicolassm145/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/nicolassm__/"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram"/></a>
 </p>
