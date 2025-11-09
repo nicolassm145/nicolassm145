@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Nícolas 👋</h1>
 <br>
 
-<h3>GitHub Stats:</h3>
 <div align="center">
   <img  width="49%" height="195" src="https://github-readme-stats.vercel.app/api?username=nicolassm145&show_icons=true&locale=en&&count_private=true&hide_border=true&rank_icon=github&card_width=400&title_color=9745f5&icon_color=9f4bff&text_color=ffffff&bg_color=0d1117" alt="nicolassm145" />
   <img  width="41%" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolassm145&&layout=compact&card_width=400&langs_count=8&hide_border=true&hide=shaderlab,hlsl&title_color=9745f5&icon_color=9f4bff&text_color=ffffff&bg_color=0d1117" alt="Top Langs"/>
@@ -9,7 +8,7 @@
 
 <h3 align="center">Languages:</h3>
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,cs,js,ts,py,html,css&theme=dark&perline=4" alt="My Skills"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,cs,py,ts,js,html,css&theme=dark&perline=4" alt="My Skills"/></a>
 </p>
 
 <h3 align="center">Frameworks:</h3>
